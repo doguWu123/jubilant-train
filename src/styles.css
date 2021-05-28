@@ -2,3 +2,9 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.App input {
+  width: 300px;
+  height: 40px;
+  border-radius: 5px;
+}
