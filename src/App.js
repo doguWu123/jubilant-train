@@ -1,5 +1,4 @@
 import "./styles.css";
-import styled from "styled-components";
 
 function Signup() {
   alert("Signed In!");
