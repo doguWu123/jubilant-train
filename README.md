@@ -1,2 +1,2 @@
 # jubilant-train
-Created with CodeSandbox
+Built with React
